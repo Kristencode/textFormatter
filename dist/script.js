@@ -7,7 +7,7 @@ button.addEventListener("click", function () {
   // value.style.color='red'
   body.style.fontWeight = "bold";
   body.style.background = "red";
+ 
   body.append(value);
-
-  value = "";
+ 
 });
